@@ -1,2 +1,1 @@
-# wealth-perspective
-NextJS Static Site
+NextJS Site - Sandbox
